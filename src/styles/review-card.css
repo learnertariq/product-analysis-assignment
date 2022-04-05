@@ -1,3 +1,9 @@
 .review-text {
   font-style: italic;
 }
+
+.review-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}

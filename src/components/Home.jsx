@@ -37,7 +37,12 @@ const Home = () => {
           <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-2 justify-content-center">
             {reviews.slice(0, 3).map((r, index) => (
               <div key={index} className="col">
-                <ReviewCard name={r.name} text={r.text} rating={r.rating} />
+                <ReviewCard
+                  name={r.name}
+                  text={r.text}
+                  rating={r.rating}
+                  img={r.img}
+                />
               </div>
             ))}
           </div>

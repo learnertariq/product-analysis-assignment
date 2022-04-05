@@ -2,31 +2,37 @@
   {
     "name": "John",
     "text": "Great services I ever found. I like there attitude",
-    "rating": 4
+    "rating": 4,
+    "img": "/faces/1.jpg"
   },
   {
     "name": "Motu",
     "text": "You products/themes changed my business life.",
-    "rating": 4.5
+    "rating": 4.5,
+    "img": "/faces/2.jpg"
   },
   {
     "name": "Patlu",
     "text": "Beautiful design with absolutely low price",
-    "rating": 2
+    "rating": 2,
+    "img": "/faces/3.jpg"
   },
   {
     "name": "Watson",
     "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, ab!",
-    "rating": 3
+    "rating": 3,
+    "img": "/faces/4.jpg"
   },
   {
     "name": "Billu",
     "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, ab!",
-    "rating": 3.5
+    "rating": 3.5,
+    "img": "/faces/5.jpg"
   },
   {
     "name": "Chewing gum",
     "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, ab!",
-    "rating": 3
+    "rating": 3,
+    "img": "/faces/6.jpg"
   }
 ]

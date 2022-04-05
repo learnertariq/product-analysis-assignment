@@ -1,4 +1,5 @@
 import React from "react";
+import Rating from "react-rating";
 import "../styles/review-card.css";
 
 const ReviewCard = ({ name, text, rating, img }) => {
@@ -10,8 +11,8 @@ const ReviewCard = ({ name, text, rating, img }) => {
           <h5 className="card-title text-success">{name} &#8594;</h5>
         </div>
         <blockquote className="review-text">&ldquo;{text}&rdquo;</blockquote>
-        <div className="rating-text">
-          Ratings: <span className="text-warning fw-bold">{rating}</span> star
+        <div className="rating-container opacity-75">
+          <Rating readonly initialRating={rating} />
         </div>
       </div>
     </div>

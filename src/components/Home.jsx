@@ -31,7 +31,7 @@ const Home = () => {
       </section>
 
       {/* Customer Review section */}
-      <section className="container text-center">
+      <section className="container text-center pt-5">
         <h2>Customer Reviews</h2>
         <div className="reviews-container my-4 text-start">
           <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-2 justify-content-center">

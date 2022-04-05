@@ -1,6 +1,19 @@
 # The Theme You Love
 
-## [Private repo link](https://classroom.github.com/a/8blYLhL7)
+## [Live Site link](https://the-theme-you-love.netlify.app/)
+
+## [Private repo link](https://github.com/programming-hero-web-course-4/product-analysis-website-usukuk)
+
+## About the Project
+
+- A default nav bar is added for all pages
+- There is a home page with 2 sections
+  - Hero area
+  - Reviews
+- There is a /reviews route with customer reviews
+- In the Dashboard section 4 react charts are shown
+- A footer is also added
+- And many more
 
 [https://classroom.github.com/a/8blYLhL7](https://classroom.github.com/a/8blYLhL7)
 

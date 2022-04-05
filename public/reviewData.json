@@ -2,17 +2,17 @@
   {
     "name": "John",
     "text": "Great services I ever found. I like there attitude",
-    "rating": 3
+    "rating": 4
   },
   {
     "name": "Motu",
     "text": "You products/themes changed my business life.",
-    "rating": 3
+    "rating": 4.5
   },
   {
     "name": "Patlu",
     "text": "Beautiful design with absolutely low price",
-    "rating": 3
+    "rating": 2
   },
   {
     "name": "Watson",
@@ -22,7 +22,7 @@
   {
     "name": "Billu",
     "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, ab!",
-    "rating": 3
+    "rating": 3.5
   },
   {
     "name": "Chewing gum",

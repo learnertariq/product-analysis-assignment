@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import ArChart from "./Charts/ArChart";
-
 import BChart from "./Charts/BChart";
 import LChart from "./Charts/LChart";
 import PChart from "./Charts/PChart";
@@ -16,9 +15,9 @@ const Dashboard = () => {
 
   return (
     <section className="container">
-      <h1>Dashboard</h1>
+      <h1 className="my-4">Dashboard</h1>
       <div className="charts">
-        <div className="row row-cols-1 row-cols-md-2">
+        <div className="row row-cols-1 row-cols-md-2 g-4">
           <div className="col">
             <div style={{ width: "100%", height: 300 }}>
               <LChart

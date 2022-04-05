@@ -10,3 +10,15 @@
   color: black;
   font-weight: 500;
 }
+
+/* Specific styles for non-active links */
+.link {
+  /* color: white; */
+}
+
+/* Specific styles for active links */
+.link-active {
+  color: black !important;
+  font-weight: 700 !important;
+  border-bottom: 2px solid red !important;
+}
